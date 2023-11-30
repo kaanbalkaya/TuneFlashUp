@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TuneFlashUp.iml" filepath="$PROJECT_DIR$/TuneFlashUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TuneFlashUp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
