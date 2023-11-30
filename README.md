@@ -1,1 +1,1 @@
-# TuneFlashUp : müziğin göre flash patlatan, ritmik android uygulaması
+# TuneFlashUp : müziğe göre flash patlatan, ritmik android uygulaması
